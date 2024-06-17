@@ -18,10 +18,12 @@ I grew up in Nepal before moving to live in America. My close connection with bo
 </p>
 
 ### Projects
+- [Amazon-Copy-Project](https://github.com/biseshRana/Amazon-copy-project)
+- [Weather-App](https://github.com/biseshRana/Weather_App)
+- [Rock-Paper-Scissors-Game](https://github.com/biseshRana/Rock-Paper-Scissors-Game)
+- [Project2.cpp](https://github.com/biseshRana/Project2.cpp)
+- [Project3.cpp](https://github.com/biseshRana/Project3.cpp)
 
-[Project2.cpp](https://github.com/biseshRana/Project2.cpp)
-[Project3.cpp](https://github.com/biseshRana/Project3.cpp)
-[Labs](https://github.com/biseshRana/Coursework)
 
 ### Socials
 
