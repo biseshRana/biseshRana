@@ -1,10 +1,10 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi! My name is Bisesh Rana 
 ===================================================================================================================================
 
-Sophmore CS major
+Junior CS major
 -----------------
 
-I grew up in Nepal before moving to live in America. My close connection with both countries has led to years of international travel that helped me develop an interest in advancing global connectivity through software. I hope to advance transportation and communication so that immigration is a significantly easier process for anyone across the world. I am currently a computer science major at UNT looking for internships to develop experience towards my goal.
+I grew up in Nepal before moving to live in America. My close connection with both countries has led to years of international travel that helped me develop an interest in advancing global connectivity through software. I hope to advance transportation and communication so that immigration/travel is a significantly easier process for anyone across the world. I am currently a computer science major at UNT looking for internships to develop experience towards my goal.
 
 * 🌍  I'm based in Dallas-Fort Worth
 * ✉️  You can contact me at [RanaBisesh123@gmail.com](mailto:RanaBisesh123@gmail.com)
